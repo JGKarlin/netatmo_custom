@@ -1,0 +1,9 @@
+{
+  "domain": "netatmo_custom",
+  "name": "Netatmo Custom",
+  "version": "1.0",
+  "documentation": "https://www.home-assistant.io/integrations/netatmo/",
+  "dependencies": [],
+  "codeowners": ["@JGKarlin"],
+  "requirements": ["requests"]
+}

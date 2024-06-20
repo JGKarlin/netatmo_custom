@@ -1,0 +1,1 @@
+"""Initialize the Netatmo Custom component."""
