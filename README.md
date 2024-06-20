@@ -1,6 +1,6 @@
 # Netatmo Sensor Integration for Home Assistant
 
-This custom component integrates Netatmo weather station data into Home Assistant. It periodically fetches sensor data from the Netatmo API, ensuring tokens are managed and refreshed automatically. I created this custom integration because the official Netatmo integration now built-in to Home Assistant is not reliable and not consistently maintained.
+This custom component integrates Netatmo weather station data into Home Assistant. It periodically fetches sensor data from the Netatmo API, ensuring tokens are managed and refreshed automatically. I created this custom integration because the official Netatmo integration is not reliable and not consistently maintained.
 
 ## Features
 
